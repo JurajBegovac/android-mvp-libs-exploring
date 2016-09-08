@@ -14,3 +14,5 @@ Conductor - https://github.com/bluelinelabs/Conductor
 Mosby - https://github.com/sockeqwe/mosby
 
 Moxy - https://github.com/Arello-Mobile/Moxy
+
+Pancakes - https://github.com/mattlogan/Pancakes
